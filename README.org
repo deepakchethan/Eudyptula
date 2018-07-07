@@ -1,5 +1,5 @@
 
-* This is Task 01 of the Eudyptula Challenge
+* DONE This is Task 01 of the Eudyptula Challenge
 ------------------------------------------
 
 Write a Linux kernel module, and stand-alone Makefile, that when loaded
@@ -22,7 +22,7 @@ fine.
 
 
 
-* This is Task 02 of the Eudyptula Challenge
+* DONE This is Task 02 of the Eudyptula Challenge
 ------------------------------------------
 
 Now that you have written your first kernel module, it's time to take
